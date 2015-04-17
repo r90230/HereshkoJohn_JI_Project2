@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just Testing</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hint_text">Add Text Here</string>
+    <string name="item_length">item(s)</string>
+    <string name="average_length">Average Length</string>
+    <string name="clicked_line">Clicked Line</string>
+    <string name="remove">Remove</string>
+    <string name="activity_name">It Worked!</string>
+</resources>

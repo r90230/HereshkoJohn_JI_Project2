@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba Justo</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hint_text">Añadir Texto Aquí</string>
+    <string name="item_length">artículo(s)</string>
+    <string name="average_length">Longitud Promedio</string>
+    <string name="clicked_line">Línea de Clic</string>
+    <string name="remove">Eliminar</string>
+    <string name="activity_name">Funciono!</string>
+</resources>
